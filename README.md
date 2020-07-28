@@ -4,7 +4,7 @@
 
 ## About The Project
 
-Package testhook is a tiny module for adding default beforeEach (setup) and afterEach (teardown) hooks to Go subtests.
+Package testhook is a tiny module for adding beforeEach (setup) and afterEach (teardown) hooks to Go subtests.
 
 All of the documentation can be found on the [go.dev](https://pkg.go.dev/github.com/massahud/testhook?tab=doc) website.
 
