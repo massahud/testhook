@@ -1,6 +1,6 @@
 # TestHook
 
-![Go](https://github.com/massahud/testhook/workflows/Go/badge.svg)
+![Master](https://github.com/massahud/testhook/workflows/Master/badge.svg)
 
 ## About The Project
 
