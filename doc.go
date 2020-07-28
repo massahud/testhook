@@ -1,5 +1,5 @@
 // Package testhook is a simple helper to add
-// default beforeEach (setup) and afterEach (teardown)
+// BeforeEach (setup) and AfterEach (teardown)
 // hooks to subtests.
 //
 // To use it just wrap *testing.T into a TestHook,
