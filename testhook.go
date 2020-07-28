@@ -5,8 +5,7 @@ import "testing"
 // TestHook is a function executed during specific times on a test cycle
 type TestHook func(t *testing.T)
 
-// TestSpawner is a interface with the testing.T#Run function to help test
-// the package.
+// TestSpawner is an interface that spawn subtests.
 type TestSpawner interface {
 	Run(name string, f func(t *testing.T)) bool
 }
