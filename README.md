@@ -1,6 +1,7 @@
 # TestHook
 
 ![Master](https://github.com/massahud/testhook/workflows/Master/badge.svg)
+![lint](https://github.com/massahud/testhook/workflows/lint/badge.svg)
 
 ## About The Project
 
